@@ -5,4 +5,6 @@ cleaned and prepared data for machine learning, implemented feature selection, p
 visualised as predictive plot and performed classification using Logistic Regression algorithm, optimal Logistic Regression convergence with 35 max iterations, 
 visualised as a confusion matrix and evaluated through classification report. 
 
+Instruction:
+
 Run code on Colab using "online_job_adverts.csv".
