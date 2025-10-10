@@ -7,4 +7,4 @@ visualised as a confusion matrix and evaluated through classification report.
 
 Instruction:
 
-Run code on Colab using "online_job_adverts.csv".
+Run code on Colab link using "online_job_adverts.csv".
