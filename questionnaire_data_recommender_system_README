@@ -1,0 +1,3 @@
+Initial content recommendation solution for an online adaptive learning app for learners with ADHD.
+Created hybrid recommender system and implemented supervised (used K-Nearest Neighbour and Naive Bayes classification algorithm) 
+to recommend educational content based on user's needs with a high recall.
